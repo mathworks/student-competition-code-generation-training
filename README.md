@@ -1,5 +1,5 @@
 # Student Competition Code Generation Tutorials
-This entry contains all of the example and exercise materials for the online training: Student Competition - Code Generation Training. Access the videos here : www.mathworks.com/codegen-training
+This entry contains all of the example and exercise materials for the online training: Student Competition - Code Generation Training. Access the videos here : [https://www.mathworks.com/videos/series/student-competition-code-generation-training.html](https://www.mathworks.com/videos/series/student-competition-code-generation-training.html)
 
 [![View  Student Competition: Code Generation Training on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/69089-student-competition-code-generation-training)
 
